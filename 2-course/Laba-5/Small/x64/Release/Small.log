@@ -1,0 +1,13 @@
+﻿  Small.cpp
+F:\BSU-FAMCs\2-course\OS\laba-5\Small\Small.cpp(14,21): warning C4477: "sscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "HANDLE *"
+F:\BSU-FAMCs\2-course\OS\laba-5\Small\Small.cpp(15,21): warning C4477: "sscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "HANDLE *"
+F:\BSU-FAMCs\2-course\OS\laba-5\Small\Small.cpp(18,38): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+F:\BSU-FAMCs\2-course\OS\laba-5\Small\Small.cpp(14,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\BSU-FAMCs\2-course\OS\laba-5\Small\Small.cpp(15,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\BSU-FAMCs\2-course\OS\laba-5\Small\Small.cpp(16,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Создание кода
+  1 of 85 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Small.vcxproj -> F:\BSU-FAMCs\2-course\OS\laba-5\x64\Release\Small.exe

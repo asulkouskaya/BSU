@@ -1,0 +1,6 @@
+﻿  Server.cpp
+F:\BSU-FAMCs\2-course\OS\laba-5\laba 5\Server.cpp(91,69): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+F:\BSU-FAMCs\2-course\OS\laba-5\laba 5\Server.cpp(91,69): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+F:\BSU-FAMCs\2-course\OS\laba-5\laba 5\Server.cpp(91,92): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+F:\BSU-FAMCs\2-course\OS\laba-5\laba 5\Server.cpp(91,92): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+  laba 5.vcxproj -> F:\BSU-FAMCs\2-course\OS\laba-5\x64\Debug\laba 5.exe
