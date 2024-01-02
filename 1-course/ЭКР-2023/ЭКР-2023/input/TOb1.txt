@@ -1,0 +1,10 @@
+3
+Sugar
+100
+Bacaleya
+Apple
+200
+Fruits
+Banana
+8
+Fruits
